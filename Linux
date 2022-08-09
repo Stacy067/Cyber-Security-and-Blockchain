@@ -24,3 +24,13 @@ cp testfile
 cd ..
 
 ls
+
+vim
+
+test string!
+
+d
+p
+
+: w test
+
