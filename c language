@@ -19,3 +19,14 @@ int main(){
 gcc -o test test.c
 ls
 ./test
+
+
+------------------------------------------
+
+#include <stdio.h>
+
+int main(){
+        printf("hello world\n");
+
+        return 0;
+}
