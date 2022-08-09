@@ -1,0 +1,26 @@
+
+pwd 
+
+mkdir test
+
+ls
+
+cd test
+
+pwd
+
+cd ..
+
+ls
+
+mv testfile test
+
+cd test/
+
+ls
+
+cp testfile
+
+cd ..
+
+ls
