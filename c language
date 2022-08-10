@@ -61,6 +61,6 @@ int main() {
         a = 300;
         printf("%d\n", *px);
 
-        return 0
+        return 0;
  }
 
