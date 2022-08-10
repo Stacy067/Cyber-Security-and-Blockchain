@@ -30,3 +30,21 @@ int main(){
 
         return 0;
 }
+
+
+-------------------------------------------
+
+# Remove file
+
+rm my_first_file.c
+
+
+# Remove with the filename extension
+
+rm *.c
+
+
+# Remove directory
+
+rm -rf directory_name
+
