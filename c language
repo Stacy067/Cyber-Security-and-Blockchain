@@ -48,3 +48,19 @@ rm *.c
 
 rm -rf directory_name
 
+
+-------------------------
+
+#include <stdio.h>
+
+int main() {
+        int a;
+        int *px;
+        px = &a;
+
+        a = 300;
+        printf("%d\n", *px);
+
+        return 0
+ }
+
