@@ -64,3 +64,32 @@ int main() {
         return 0;
  }
 
+
+# test file
+
+gcc test2.c -o test2 
+ls
+./test2
+
+--------------------------
+
+#include <stdio.h>
+
+int main() {
+        int a[5] = { 0, 1, 2, 3, 4 };
+        printf("%d\n", a[0]);
+        a[0] = 300;
+        printf("%d\n", a[0]);
+
+        return 0;
+ }
+
+
+
+# test file
+
+gcc test2.c -o test2 
+ls
+./test2
+
+
